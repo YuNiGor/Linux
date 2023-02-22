@@ -1,0 +1,19 @@
+   0 mkdir /home/user1/task1
+   1 mkdir -p /home/user1/task1
+   2 ls
+   3 nejnke
+   4 touch /home/user1/task1/file1.txt
+   5 tree
+   6 tree /home
+   7 cp /home/user1/task1/file1.txt /opt/file2.txt
+   8 cp --help
+   9 cp -r /home/ /tmp/
+  10 mv /home/ /tmp/
+  11 mv /opt/file2.txt /opt/111
+  12 ls /opt/
+  13 ls /tmp/
+  14 rmdir
+  15 rm -rf /tmp/
+  16 ls /tmp/
+  17 history
+  18 history > history.txt
