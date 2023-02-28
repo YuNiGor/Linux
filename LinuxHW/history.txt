@@ -1,0 +1,19 @@
+cd /home/
+mkdir /animals
+cd /animals
+mkdir dogs cats fish
+cd cats
+touch garfield.txt
+cd ../
+cd dogs
+touch pluto.txt
+cd ../
+cd fish
+touch nemo.txt
+ctrl+d
+touch /tmp/adam.txt
+mkdir /home/humans
+cp /tmp/adam.txt /home/humans
+touch /tmp/evA.txt
+mv /tmp/evA.txt /opt/eve.txt
+???????????????????
